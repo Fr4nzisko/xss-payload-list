@@ -27,11 +27,7 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 ```
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
-<!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/fr4nzisko/ -->
-<!--        GitHub : https://github.com/fr4nzisko/ -->
-<!--       Twitter : https://twitter.com/ismailtsdln -->
-<!--        Medium : https://medium.com/@fr4nzisko -->
+
 
 "-prompt(8)-"
 '-prompt(8)-'
