@@ -28,10 +28,10 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 ```
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
-<!--        GitHub : https://github.com/ismailtasdelen/ -->
+<!--      Linkedin : https://www.linkedin.com/in/fr4nzisko/ -->
+<!--        GitHub : https://github.com/fr4nzisko/ -->
 <!--       Twitter : https://twitter.com/ismailtsdln -->
-<!--        Medium : https://medium.com/@ismailtasdelen -->
+<!--        Medium : https://medium.com/@fr4nzisko -->
 
 "-prompt(8)-"
 '-prompt(8)-'
@@ -2768,23 +2768,12 @@ foo<script>alert(1)</script>
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-list.git
+root@fr4nzisko:~# git clone https://github.com/fr4nzisko/xss-payload-list.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
+root@fr4nzisko:~# git clone git@github.com:fr4nzisko/xss-payload-list.git
 ```
 
-### Published Website :
 
-##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
-
-### Donate!
-
-Support the authors:
-
-#### LiberaPay:
-
-<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
---end--
